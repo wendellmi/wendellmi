@@ -1,6 +1,6 @@
-## Hello there, I'm Wendell 👋
+## Hello there, I'm Wendell 👨‍💻​👋
 
- Systems Administrator and technology enthusiast. I create innovative solutions for a variety of industries.
+ Systems Administrator and technology enthusiast. I create innovative solutions for a variety of industries. ​📈​📊​🌍​
 
 
 **Tools**
