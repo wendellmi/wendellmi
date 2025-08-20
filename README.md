@@ -1,6 +1,6 @@
 ## Hello there, I'm Wendell 👨‍💻​👋
 
-Systems Administrator and technology enthusiast. I create innovative solutions, develop modern automations and explore AI to deliver impactful results across different industries. ​📈​📊​🌍​
+Systems administrator and technology and AI enthusiast. I create innovative solutions, develop modern automation, and use AI to generate impactful results across a variety of industries. 📈📊🌍
 
 **Tools 🛠**
 
