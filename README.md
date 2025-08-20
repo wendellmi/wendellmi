@@ -1,6 +1,6 @@
 ## Olá! Eu sou Wendell!👨‍💻​👋
 
-Administrador de sistemas e entusiasta de tecnologia e IA. Crio soluções inovadoras, desenvolvo automação moderna e utilizo IA para gerar resultados impactantes em diversos setores. 📈📊🌍
+Administrador de sistemas e entusiasta de tecnologia e IA. Crio soluções inovadoras, desenvolvo automações modernas e utilizo IA para otimizar processos e gerar resultados impactantes em diversas áreas. 📈📊🌍
 
 # Sobre mim
 
