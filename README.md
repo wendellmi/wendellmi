@@ -1,8 +1,11 @@
-## Hello there, I'm Wendell 👨‍💻​👋
+## Olá! Eu sou Wendell!👨‍💻​👋
 
-Systems administrator and technology and AI enthusiast. I create innovative solutions, develop modern automation, and use AI to generate impactful results across a variety of industries. 📈📊🌍
+Administrador de sistemas e entusiasta de tecnologia e IA. Crio soluções inovadoras, desenvolvo automação moderna e utilizo IA para gerar resultados impactantes em diversos setores. 📈📊🌍
 
-**Tools 🛠**
+# Sobre mim
+
+
+# Ferramentas que uso 🛠
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
