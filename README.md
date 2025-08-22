@@ -8,7 +8,7 @@ Nome: Wendell M
 #
 Cargo: Administrador de Sistemas com foco em infraestrutura Cloud e automações.
 #
-Hobbies: Jogos 
+Hobbies: Jogos eletrônicos 🕹️​
 #
 
 # Ferramentas que uso 🛠
