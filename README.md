@@ -5,11 +5,11 @@ Administrador de sistemas e entusiasta de tecnologia e IA. Crio soluções inova
 # Sobre mim
 
 Nome: Wendell M
-.
+#
 Cargo: Administrador de Sistemas com foco em infraestrutura Cloud e automações.
-.
+#
 Hobbies: Jogos 
-
+#
 
 # Ferramentas que uso 🛠
 
