@@ -27,4 +27,3 @@ Hobbies: Jogos eletrônicos 🕹️​
 ![n8n](https://img.shields.io/badge/n8n-EA4B8B?style=flat&logo=n8n&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Chatwoot](https://img.shields.io/badge/Chatwoot-1F93FF?style=flat&logo=chatwoot&logoColor=white)
